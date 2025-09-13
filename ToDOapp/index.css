@@ -5,6 +5,8 @@ body{
     
 }
 .mainContainer{
+    position: relative;
+    top: 100px;
     color: rgba(252, 248, 248, 0.951);
     min-height: 40vh;
     height: auto;
